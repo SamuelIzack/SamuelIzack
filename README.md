@@ -1,6 +1,12 @@
-### Olá, tudo bem? 👋
+<h2 data-importer="text" align="left">Olá 👋 Seja bem-vindo ao meu perfil</h2>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e já concluí o **Curso Técnico em Informática**. Meu foco principal é o **desenvolvimento back-end**, e gosto de aprender construindo coisas que realmente funcionam — não só em teoria.
+###
+
+<br clear="both">
+
+### 👋 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e já concluí o **Curso Técnico em Informática**. Meu foco principal é o **desenvolvimento back-end**, e venho aprendendo na prática, construindo projetos que resolvem problemas reais.
 
 ---
 
@@ -19,18 +25,32 @@ Projeto de extensão da Faculdade Senac Minas, desenvolvido para uma empresa rea
 Um dos pontos centrais do projeto é a **integração com a API da Capta**: o cadastro é feito primeiro no sistema desenvolvido e depois integrado à Capta via API, evitando retrabalho e centralizando a gestão em uma única origem de dados.
 Mais do que um exercício acadêmico, é um sistema pensado para resolver um problema real de uma empresa real.
 
-**🌊 Radar de Enchentes** *(nome provisório — Projeto Integrador)*
-Projeto acadêmico que cruza dados de **APIs de chuva/precipitação** com **históricos de enchentes** para estimar, em um mapa, as chances de ocorrência de uma enchente em determinada região com base na intensidade da chuva e nos registros anteriores.
+**🌊 S.I.M.P.I.U — Sistema Inteligente de Monitoramento e Predição de Inundações Urbanas**
+Projeto Integrador que cruza dados de **APIs de chuva/precipitação** com **históricos de enchentes** para estimar, em um mapa, as chances de ocorrência de uma enchente em determinada região com base na intensidade da chuva e nos registros anteriores.
 A proposta é reunir em um só lugar: condições atuais de chuva, intensidade, previsão, histórico de enchentes da região e uma visualização geográfica interativa — usando dados reais para ajudar na identificação de riscos ambientais.
 
----
 
-### 🛠️ Tecnologias
+###
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
 
----
+###
 
-📚 Sempre aprendendo, sempre construindo. Se quiser trocar uma ideia sobre back-end, APIs ou algum dos projetos acima, fique à vontade pra abrir uma conversa por aqui!
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
