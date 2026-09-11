@@ -29,9 +29,6 @@ Mais do que um exercício acadêmico, é um sistema pensado para resolver um pro
 Projeto Integrador que cruza dados de **APIs de chuva/precipitação** com **históricos de enchentes** para estimar, em um mapa, as chances de ocorrência de uma enchente em determinada região com base na intensidade da chuva e nos registros anteriores.
 A proposta é reunir em um só lugar: condições atuais de chuva, intensidade, previsão, histórico de enchentes da região e uma visualização geográfica interativa — usando dados reais para ajudar na identificação de riscos ambientais.
 
-
-###
-
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -47,9 +44,23 @@ A proposta é reunir em um só lugar: condições atuais de chuva, intensidade, 
 ###
 
 <div data-importer="socials" align="left">
-  <img src="https://www.instagram.com/samuel_lopess03/" height="35" alt="instagram logo"  />
-  <img src="" height="35" alt="gmail logo"  />
-  <img src="" height="35" alt="linkedin logo"  />
+
+  <a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+
+  <img width="8" />
+
+  <a href="mailto:SEU_EMAIL@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+
+  <img width="8" />
+
+  <a href="https://www.linkedin.com/in/SEU_PERFIL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+
 </div>
 
 ###
