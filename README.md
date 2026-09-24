@@ -1,9 +1,7 @@
 <h2 data-importer="text" align="left">Olá 👋 Seja bem-vindo ao meu perfil</h2>
 
 ###
-
 <br clear="both">
-
 ### 👋 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e já concluí o **Curso Técnico em Informática**. Meu foco principal é o **desenvolvimento back-end**, e venho aprendendo na prática, construindo projetos que resolvem problemas reais.
